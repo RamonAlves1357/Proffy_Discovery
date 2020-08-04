@@ -37,7 +37,7 @@ Este projeto foi realizado usando as seguintes tecnologias:
 <a id="Recursos"></a>
 # 🚀 Recursos
 * Site para inscrição de professores e aluno.
-* App para conectar professores e alunos.
+<!-- * App para conectar professores e alunos. -->
 
 ---
 <a id="Como_usar"></a>
@@ -52,10 +52,14 @@ Sinta-se a vontade para **registar uma nova edição** com o respectivo titulo e
 ---
 <a id="Licença"></a>
 # 📕 Licença
-Lançado em 2020 [📕 License](https://github.com/RamonAlves1357/Proffy_Discovery/master/LICENSE)
+<!-- Lançado em 2020 [📕 License](https://github.com/RamonAlves1357/Proffy_Discovery/blob/master/LICENSE) -->
+
+<p align="center">
+  Lançado em 2020 <a href="https://github.com/RamonAlves1357/Proffy_Discovery/blob/master/LICENSE">📕 License</a>
+</p>
 
 Feito com <strong style="color:purple">❤</strong>  por [Ramon Alves](https://github.com/RamonAlves1357) juntamente com o Mestre [Mayk Brito](https://github.com/MaykBrito) pela [Rocketseat](https://rocketseat.com.br/) 🚀.
-Este projeto está sob a [MIT license](https://github.com/RamonAlves1357/Proffy_Discovery/master/LICENSE).
+Este projeto está sob a [MIT license](https://github.com/RamonAlves1357/Proffy_Discovery/blob/master/LICENSE).
 
 
 Dê uma ⭐️ se você curtiu este projeto! 😉
