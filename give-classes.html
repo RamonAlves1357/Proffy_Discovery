@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="/styles/partials/page-give-classes.css">
 
     <title>Proffy | Sua plataforma de estudos online</title>
+
 </head>
 <body id="page-give-classes">
     
@@ -84,10 +85,10 @@
 
                 <fieldset id="schedule-items">
                     <legend>Horários disponíveis
-                        <button id="add-time">+ Novo Horário</button>
+                        <button type="button" id="add-time">+ Novo Horário</button>
                     </legend>
 
-                    <div class="shedule-item">
+                    <div class="schedule-item">
                         <div class="select-block">
                             <label for="weekday">Dia da semana</label>
                             <select name="weekday[]" required>
@@ -118,12 +119,13 @@
             <footer>
                 <p>
                     <img src="/images/icons/warning.svg" alt="Aviso importante">
-                    Importante! <br>Preencha todos os dadso
+                    Importante! <br>Preencha todos os dados
                 </p>
                 <button type="submit" form="create-class">Salvar cadastro</button>
             </footer>
         </main>
     </div>
-    
+
+    <script src="/scripts/addField.js"></script>
 </body>
 </html>

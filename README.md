@@ -18,11 +18,27 @@
 
 ---
 # 📌 Sumário
+* [Preview](#Preview)
+* [Sobre](#Sobre)
 * [Tecnologias](#Tecnologias)
 * [Recursos](#Recursos)
 * [Como usar?](#Como_usar)
 * [Encontrou um bug? Está faltando algo?](#bug_issues)
 * [Licença](#Licença)
+
+---
+<a id="Preview"></a>
+# 🎬 Preview
+<img alt="Imagem preview" src=".github/preview.png">
+
+---
+<a id="Sobre"></a>
+# 📖 Sobre
+Este é um projeto desenvolvido durante a <b>Next Level Week #2</b>, realizada pela <b>@Rocketseat</b> durante os dias 3 a 9 de Agosto de 2020.
+
+<p>
+ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!
+</p>
 
 ---
 <a id="Tecnologias"></a>
@@ -33,6 +49,7 @@ Este projeto foi realizado usando as seguintes tecnologias:
 * [CSS](https://www.w3schools.com/CSS/)
 * [JavaScript](https://www.javascript.com/)
 <!-- * [NodeJS](https://nodejs.org/pt-br/) -->
+<!-- * [Nunjuncks](https://mozilla.github.io/nunjucks/) -->
 
 ---
 <a id="Recursos"></a>
@@ -44,6 +61,13 @@ Este projeto foi realizado usando as seguintes tecnologias:
 <a id="Como_usar"></a>
 # 👷‍♂️ Como usar?
 
+``` sh
+  # Clonar o repositorio
+  $ git clone https://github.com/RamonAlves/Proffy.git
+
+  # Entre no diretório
+  $ cd Proffy
+```
 
 ---
 <a id="bug_issues"></a>
