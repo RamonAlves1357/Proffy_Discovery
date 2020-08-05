@@ -3,7 +3,7 @@
    <img src=".github/logo.svg" alt="Logo Proffy" width="150"/>
 </p>
 <!-- <h1 align="center">Proffy</h1> -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!"/>
@@ -29,9 +29,10 @@
 # 💻 Tecnologias
 Este projeto foi realizado usando as seguintes tecnologias:
 
-* [HTML](#https://reactnative.dev/)
-* [CSS](#https://expo.io/)
-* [NodeJS](#https://eslint.org/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/CSS/)
+* [JavaScript](https://www.javascript.com/)
+<!-- * [NodeJS](https://nodejs.org/pt-br/) -->
 
 ---
 <a id="Recursos"></a>
