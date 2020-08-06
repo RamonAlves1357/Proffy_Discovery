@@ -45,11 +45,12 @@ Este é um projeto desenvolvido durante a <b>Next Level Week #2</b>, realizada p
 # 💻 Tecnologias
 Este projeto foi realizado usando as seguintes tecnologias:
 
+
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/CSS/)
 * [JavaScript](https://www.javascript.com/)
-<!-- * [NodeJS](https://nodejs.org/pt-br/) -->
-<!-- * [Nunjuncks](https://mozilla.github.io/nunjucks/) -->
+* [NodeJS](https://nodejs.org/pt-br/)
+* [Nunjuncks](https://mozilla.github.io/nunjucks/)
 
 ---
 <a id="Recursos"></a>
