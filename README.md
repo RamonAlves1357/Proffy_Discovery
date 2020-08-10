@@ -51,6 +51,7 @@ Este projeto foi realizado usando as seguintes tecnologias:
 * [JavaScript](https://www.javascript.com/)
 * [NodeJS](https://nodejs.org/pt-br/)
 * [Nunjuncks](https://mozilla.github.io/nunjucks/)
+* [SQLite]()
 
 ---
 <a id="Recursos"></a>
