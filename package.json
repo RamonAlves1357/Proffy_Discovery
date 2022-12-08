@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/RamonAlves1357/Proffy_Discovery#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nunjucks": "^3.2.2"
   },
   "devDependencies": {
